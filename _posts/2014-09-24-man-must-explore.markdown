@@ -72,22 +72,6 @@ header-img: "img/post-bg-06.jpg"
 </table>
 </div>
 
-
-{% highlight Python3 linenos %}
-
-    print ((32/595) * 100)
-    print ((30/599) * 100)
-    print ((18/622) * 100)
-    print ((51/606) * 100)
-    print ((38/578) * 100)
-
-    5.378151260504202 #Percentages
-    5.008347245409015
-    2.8938906752411575
-    8.415841584158416
-    6.5743944636678195
-{% endhighlight %}
-
 <h3>Creating <em>Conversion Rates</em> column</h3>
 
 {% highlight Python3 linenos %}
