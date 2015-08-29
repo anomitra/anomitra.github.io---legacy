@@ -1,8 +1,8 @@
 # Site settings
-title: Clean Blog
+title: Data Science
 header-img: img/home-bg.jpg
 email: rafehqazi1@gmail.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "Road from a Rookie Starbuckser to Data Scientist."
 baseurl: "/data-science"
 url: "https://rafeh01.github.io"
 twitter_username: RafehQ
