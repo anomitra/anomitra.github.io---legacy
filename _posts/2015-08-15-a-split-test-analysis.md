@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "testing board"
+title:      "A Split Test Analysis"
 subtitle:   "How can we determine which variations of our products is great... And which simply sucks."
 date:       2014-09-24 12:00:00
 author:     "Rafeh Qazi"
