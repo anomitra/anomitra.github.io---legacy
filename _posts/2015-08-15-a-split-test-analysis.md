@@ -1,8 +1,9 @@
 ---
 layout:     post
 title:      "TESTING WEBSITE"
+title:      "Testing iCloud9ide"
 subtitle:   "How can we determine which variations of our products is great... And which simply sucks."
-date:       2015-09-24 12:00:00
+date:       2014-09-24 12:00:00
 author:     "Rafeh Qazi"
 header-img: "img/post-bg-06.jpg"
 ---
