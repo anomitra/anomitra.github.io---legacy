@@ -34,7 +34,3 @@ for i in range(5):
 #==> 3
 #==> 4
 {%endhighlight%}
-
-```
- [print(i) for i in range(5)]
-```
