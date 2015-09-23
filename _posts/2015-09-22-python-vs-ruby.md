@@ -7,7 +7,6 @@ tags: []
 published: True
 
 ---
-
 #For loops
 
 <font color="blue">Python</font>
