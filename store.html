@@ -9,9 +9,10 @@ title: "Store"
   <ul class="products-list">
     {% for product in site.data.products %}
       <li>
-        <img src="{{ product.image }}" alt="{{ product.name }}" class="thumbnai$
+        <img src="{{ product.image }}" alt="{{ product.name }}" class="thumbnail"/>
 
         {{ product.name }}
+
         <button type="submit" class="btn btn-default"></button>
           <button class="snipcart-add-item"
           data-item-name="{{product.name}}"
