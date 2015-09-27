@@ -6,6 +6,7 @@ categories: [Coursera]
 tags: [Probability]
 published: True
 permalink: probability
+author:    "Rafeh Qazi"
 header-img: "img/iphone-passcode2.jpg"
 ---
 # The Joys of Probability
@@ -56,6 +57,7 @@ In short: `outcomes`^`sequence length` will give you all the possible permutatio
 |    10    |         3       | 10^3|  1,000  |
 |    10    |         4       | 10^4|  10,000 |
 
+<img src="http://i.imgur.com/uujWjyz.jpg" alt="die combinations">
 
 Now 10,000 possible combinations might seem like a lot and it might seem like the phone would be safe, however, that is simply not true. 10,000 combinations are very small and powerful password decryption tools can guess 100's of millions of possible combinations per second. The thing that keeps you safe is how the iPhone will lock itself for increasing number of seconds per failed attempt. <br>
 
