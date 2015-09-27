@@ -23,8 +23,6 @@ To answer that, we need to understand something important about probability. If 
 
 <h2><font color="red">Total Combinations with One-Digit Passcode</font></h2>
 
-|a| |b| |c| |d| |e| |f| |g| |h| |i| |j|
-|:-:||:-:||:-:|| :-:||:-:||:-:|| :-:||:-:||:-:||:-:|
 |0| |1| |2| |3| |4| |5| |6| |7| |8| |9|
 
 But now if we were allowed to make our passcode with length 2 (2 digit passcode) we would now have 100 possible ways of arranging the 2 digit passcodes! This means that if someone was given 100 tries and they tried every single possiblity, they would be able to break your passcode! Here's a cute little python list comprehension to generate all the possible permutations:
@@ -35,8 +33,7 @@ But now if we were allowed to make our passcode with length 2 (2 digit passcode)
 
 <h2><font color="red">Total Combinations with Two-Digit Passcode</font></h2>
 
-|a| |b| |c| |d| |e| |f| |g| |h| |i| |j|
-| :-:||:-:|
+
 |00| |01| |02| |03| |04| |05| |06| |07| |08| |09|
 |10| |11| |12| |13| |14| |15| |16| |17| |18| |19|
 |20| |21| |22| |23| |24| |25| |26| |27| |28| |29|
