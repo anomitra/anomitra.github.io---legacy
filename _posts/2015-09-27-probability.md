@@ -44,7 +44,7 @@ If we were to continue this pattern at the end it would look like:
 
 |90| |91| |92| |93| |94| |95| |96| |97| |98| |99|
 
-If we were to count all of these out, you would find that there are a 100 different **permutations** of a passcode with a sequence of 2 numbers and an outcome of 10 numbers (0-9 possible numbers)! Pretty cool huh?! But, what if we wanted to generalize it in a way where we could find all the permutations of any sequence with any number of outcomes? Here is a pattern to keep in mind: `outcomes` will be multipled by `outcomes` `sequence length` number of times.<br>
+If we were to count all of these out, you would find that there are a 100 different **permutations** of a passcode with a sequence of 2 numbers and an outcome of 10 numbers (0-9 possible numbers)! Pretty cool huh?! But, what if we wanted to generalize it in a way where we could find all the permutations of any sequence with any number of outcomes? Here is a pattern to keep in mind: `outcomes` will be multipled by `outcomes` the same number of times as the length of the `sequence`.<br>
 In short: `outcomes`^`sequence length` will give you all the possible permutations<br>
 
 | Outcomes (0-9) | Sequence Length (1-4) | Calculation | **Total Combinations** |
