@@ -59,6 +59,6 @@ In short: `outcomes`^`sequence length` will give you all the possible permutatio
 
 Now 10,000 possible combinations might seem like a lot and it might seem like the phone would be safe, however, that is simply not true. 10,000 combinations are very small and powerful password decryption tools can guess 100's of millions of possible combinations per second. The thing that keeps you safe is how the iPhone will lock itself for increasing number of seconds per failed attempt. <br>
 
-So to answer question of how many possible combinations of four-digit passcodes for your iPhone there are with a bang: <br>
+So to answer your question of how many possible combinations of four-digit passcodes for your iPhone there are, with a bang: <br>
 <h2><font color="red">There Are 10,000 Possible Combinations for Your iPhone 6 Four-Digit Passcode</font></h2>
 <img src="http://i.imgur.com/0k9qUTw.jpg" alt="iPhone 6 Pass Codes">
