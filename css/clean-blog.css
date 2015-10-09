@@ -401,3 +401,20 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
+.correct {
+  display:none;
+  margin-top: 5px; 
+  color: green;
+  font-family: verdana;
+  font-style: bold; 
+  font-weight: bold;
+}
+
+.wrong {
+  display:none;
+  margin-top: 5px; 
+  color: red;
+  font-family: verdana;
+  font-style: bold; 
+  font-weight: bold;
+}
