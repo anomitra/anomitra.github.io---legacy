@@ -10,10 +10,120 @@ author:    "Rafeh Qazi"
 header-img: "img/iphone-passcode2.jpg"
 comments: true
 ---
+
+<div class="board" style="width: 400px"></div>
+
+<script> 
+	(function() {
+		var start = 'start';
+		if (window.location.hash.length > 1) {
+			start = window.location.hash.substring(1);
+		}
+
+		function outputFen(oldPos, newPos) {
+			console.log("http://" + window.location.host + window.location.pathname + "#" + ChessBoard.objToFen(newPos));
+		}
+
+		var cfg = {
+			showNotation: true,
+			draggable: true,
+		 	position: start,
+		 	pieceTheme: "{{ site.baseurl }}/lib/chessboard/img/chesspieces/wikipedia/{piece}.png",
+		 	onChange: outputFen
+		};
+
+		var board_div = $('.board:last');
+		var board = ChessBoard(board_div[0], cfg);
+	})();
+</script>
+
+<div class="board" style="width: 400px"></div>
+<button class="btn btn-default act-reset-board">Reset Position</button>
+
+<script> 
+	(function() {
+		var START_POS = 'rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR';
+		var TARGET_POS = 'rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR';
+
+		var checkBoard = function(oldPos, newPos) {
+			console.log("Position changed:");
+			console.log("Old position: " + ChessBoard.objToFen(oldPos));
+			console.log("New position: " + ChessBoard.objToFen(newPos));
+
+			if (ChessBoard.objToFen(newPos) == TARGET_POS) {
+				alert("Correct!");
+			} else if (ChessBoard.objToFen(newPos) == START_POS) {
+				// Fine, we just moved back to the beginning position.
+			} else {
+				setTimeout(function() {
+					board.position(START_POS);	
+				}, 10);
+			}
+	    }
+
+		var cfg = {
+			draggable: true,
+		 	position: START_POS,
+		 	pieceTheme: "{{ site.baseurl }}/lib/chessboard/img/chesspieces/wikipedia/{piece}.png",
+		 	onChange: checkBoard
+		};
+
+		var board_div = $('.board:last');
+		var board = ChessBoard(board_div[0], cfg);
+
+		var reset_button = $('.act-reset-board:last');
+		reset_button.on('click', function() {
+			board.position(START_POS);
+		});
+	})();
+</script>
+
+
+<div class="board" style="width: 400px"></div>
+<button class="btn btn-default act-reset-board">Reset Position</button>
+
+<script> 
+	(function() {
+		var START_POS = 'rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR';
+		var TARGET_POS = 'rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR';
+
+		var checkBoard = function(oldPos, newPos) {
+			console.log("Position changed:");
+			console.log("Old position: " + ChessBoard.objToFen(oldPos));
+			console.log("New position: " + ChessBoard.objToFen(newPos));
+
+			if (ChessBoard.objToFen(newPos) == TARGET_POS) {
+				alert("Correct!");
+			} else if (ChessBoard.objToFen(newPos) == START_POS) {
+				// Fine, we just moved back to the beginning position.
+			} else {
+				setTimeout(function() {
+					board.position(START_POS);	
+				}, 10);
+			}
+	    }
+
+		var cfg = {
+			draggable: true,
+		 	position: START_POS,
+		 	pieceTheme: "{{ site.baseurl }}/lib/chessboard/img/chesspieces/wikipedia/{piece}.png",
+		 	onChange: checkBoard
+		};
+
+		var board_div = $('.board:last');
+		var board = ChessBoard(board_div[0], cfg);
+
+		var reset_button = $('.act-reset-board:last');
+		reset_button.on('click', function() {
+			board.position(START_POS);
+		});
+	})();
+</script>
+
 # The Joys of Probability
 <img src="{{ site.baseurl }}/img/iphone-passcode.jpg" alt="iPhone 6 Pass Code Probability ">
 
-1. How many possible 4-digit passcodes can you have on your iPhone 6? (Enumerations & Permumations & Combinatorics)<br><br>
+1. How many possible 4-digit passcodes can you have on your iPhone 6? (Enumerations &amp; Permumations &amp; Combinatorics)<br><br>
 2. How many centuries will it take to break a password with an entropy level of 77? (Security)<br><br>
 3. If you got heads on the first flip... What is the probability you will get heads again? (Independent vs Dependent variables)<br><br>
 These are some of the many questions that probability helps us answer.
@@ -93,7 +203,3 @@ print(num_permutations)  # Permutations  => 32,441,381,270
 print(num_permutations / factorial(6))  # Combinations  ==> 45,057,474
 print(59**6)  # Enumerations  ==> 42,180,533,641
 {%endhighlight%} 
-
-
-
-
