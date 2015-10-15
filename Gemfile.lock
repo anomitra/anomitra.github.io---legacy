@@ -142,6 +142,7 @@ DEPENDENCIES
   html-proofer
   jekyll
   rake
+  typhoeus
 
 BUNDLED WITH
    1.10.6
