@@ -4,10 +4,6 @@
 		"selected_items":
 		[
 			[
-				"hi",
-				"high	markdownhighlight"
-			],
-			[
 				"tes",
 				"loadTestsFromTestCase"
 			],
@@ -31,7 +27,7 @@
 			"file": "2015-09-22-python-vs-ruby.md",
 			"settings":
 			{
-				"buffer_size": 468,
+				"buffer_size": 601,
 				"line_ending": "Unix"
 			}
 		},
@@ -40,30 +36,6 @@
 			"settings":
 			{
 				"buffer_size": 6064,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_config.yml",
-			"settings":
-			{
-				"buffer_size": 462,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_site/index.html",
-			"settings":
-			{
-				"buffer_size": 8405,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/User/markdownhighlight.sublime-snippet",
-			"settings":
-			{
-				"buffer_size": 313,
 				"line_ending": "Unix"
 			}
 		}
@@ -95,50 +67,10 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 227.0,
-		"last_filter": "git comm",
+		"height": 267.0,
+		"last_filter": "jek",
 		"selected_items":
 		[
-			[
-				"git comm",
-				"Git: Quick Commit"
-			],
-			[
-				"jeky",
-				"Jekyll: New post"
-			],
-			[
-				"git",
-				"Legit: Publish"
-			],
-			[
-				"github",
-				"GitHub Flavored Markdown: Preview"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"te",
-				"Terminal: Open"
-			],
-			[
-				"git push",
-				"Git: Push Current Branch"
-			],
-			[
-				"git commit",
-				"Git: Quick Commit"
-			],
-			[
-				"qui",
-				"Git: Quick Add"
-			],
-			[
-				"ter",
-				"Terminal: Open"
-			],
 			[
 				"jek",
 				"Jekyll: New post"
@@ -148,12 +80,24 @@
 				"Terminal: Open"
 			],
 			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
 				"tmp",
 				"Tmpl: Create python"
 			],
 			[
+				"git push",
+				"Git: Push"
+			],
+			[
 				"git status",
 				"Git: Status"
+			],
+			[
+				"git commit",
+				"Git: Commit"
 			],
 			[
 				"quick",
@@ -176,6 +120,10 @@
 				"Tmpl: Create python"
 			],
 			[
+				"jeky",
+				"Jekyll: New draft"
+			],
+			[
 				"python",
 				"SublimeREPL: Python - IPython"
 			],
@@ -196,7 +144,7 @@
 				"Build With: Python - Syntax Check"
 			]
 		],
-		"width": 449.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -225,17 +173,8 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/ChessTastic/Dropbox/github/websites/data-science",
-		"/Users/ChessTastic/Dropbox/github/websites/data-science/_site"
-	],
 	"file_history":
 	[
-		"/Users/ChessTastic/Dropbox/github/websites/data-science/index.html",
-		"/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/User/sbc-setting.sublime-settings",
-		"/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/Better Completion/sbc-setting.sublime-settings",
-		"/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
 		"/Users/ChessTastic/Dropbox/github/python-programs/coursera/poc1/monty_hall.py",
 		"/Users/ChessTastic/Dropbox/github/python-programs/coursera/poc1/poc1.sublime-project",
 		"/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
@@ -263,7 +202,7 @@
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
@@ -277,9 +216,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"```",
-			"chessbo",
-			"chess",
 			"OR",
 			"linenos",
 			"autoformat",
@@ -326,7 +262,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -335,15 +271,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 468,
+						"buffer_size": 601,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								254,
-								254
+								584,
+								584
 							]
 						],
 						"settings":
@@ -355,7 +291,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -382,97 +318,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 828.0,
+						"translation.y": 812.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 462,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								239,
-								239
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/ChessTastic/Dropbox/github/websites/data-science/_site/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8405,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/User/markdownhighlight.sublime-snippet",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 313,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								70,
-								70
-							]
-						],
-						"settings":
-						{
-							"default_extension": "sublime-snippet",
-							"syntax": "Packages/XML/XML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -556,10 +405,6 @@
 				"~/Dropbox/github/python-programs/coursera/poc1/poc1.sublime-project"
 			],
 			[
-				"jek",
-				"~/Dropbox/github/websites/data-science/_posts/jekyll.sublime-project"
-			],
-			[
 				"sol",
 				"~/Dropbox/github/Python-programming-exercises/Solutions.sublime-project"
 			],
@@ -587,7 +432,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 144.0,
+	"side_bar_width": 197.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
