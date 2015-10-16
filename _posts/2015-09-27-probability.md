@@ -13,14 +13,14 @@ comments: true
 {% highlight javascript %}
 {% include alert_msg.js %}
 {% endhighlight %}
-# Test FOUR
+# Test SIX
 test new form?<br>
 
 <form accept-charset="UTF-8" action="https://formkeep.com/f/b40465f188c5" method="POST">
   <input type="hidden" name="utf8" value="✓">
-  <input type="email" name="rafehqazi1@gmail.com" placeholder="Your Email">
-  <input type="text" name="Rafeh Qazi" placeholder="Your Name">
-  <input type="url" name="http://rafeh01.github.io/data-science" placeholder="Your Website">
+  <input type="email" name="email" placeholder="Your Email">
+  <input type="text" name="name" placeholder="Your Name">
+  <input type="url" name="url" placeholder="Your Website">
   <button type="submit">Submit</button>
 </form>
 <br>
