@@ -23,6 +23,7 @@ test new form?<br>
   <input type="url" name="http://rafeh01.github.io/data-science" placeholder="Your Website">
   <button type="submit">Submit</button>
 </form>
+<br>
 #The Joys of Probability
 <a href="http://imgur.com/Xlx4aoM"><img src="http://i.imgur.com/Xlx4aoM.jpg" title="iPhone 6 Combinations" /></a>
 
