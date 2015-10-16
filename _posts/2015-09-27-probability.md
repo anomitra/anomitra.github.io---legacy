@@ -10,9 +10,20 @@ author:    "Rafeh Qazi"
 header-img: "img/iphone-passcode2.jpg"
 comments: true
 ---
+{% highlight javascript %}
+{% include alert_msg.js %}
+{% endhighlight %}
+
+<input type="email" name="email" placeholder="Your Email">
+<input type="text" name="name" placeholder="Your Name">
+<input type="url" name="url" placeholder="Your Website">
+
+<form accept-charset="UTF-8" action="https://formkeep.com/f/b40465f188c5" method="POST">
+  <input type="hidden" name="utf8" value="✓">
+  <button type="submit">Submit</button>
+</form>
 #The Joys of Probability
-<img src="/Users/Rafeh/Dropbox/github/websites/{{ site.baseurl }}/img/iphone-passcode.jpg" 
-alt="iPhone 6 Pass Code Probability ">
+<a href="http://imgur.com/Xlx4aoM"><img src="http://i.imgur.com/Xlx4aoM.jpg" title="iPhone 6 Combinations" /></a>
 
 1. How many possible 4-digit passcodes can you have on your iPhone 6? (Enumerations &amp; Permumations &amp; Combinatorics)<br><br>
 2. How many centuries will it take to break a password with an entropy level of 77? (Security)<br><br>
