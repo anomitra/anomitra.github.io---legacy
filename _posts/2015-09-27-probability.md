@@ -13,23 +13,7 @@ comments: true
 {% highlight javascript %}
 {% include alert_msg.js %}
 {% endhighlight %}
-# Test with sections and input submit
-test new form?<br>
 
-<section id="got-your-email">
-	<form accept-charset="UTF-8" action="https://formkeep.com/f/b40465f188c5" method="POST">
-	  <input type="hidden" name="utf8" value="✓">
-	  <input type="email" name="email" placeholder="Your Email">
-	  <input type="text" name="name" placeholder="Your Name">
-	  <input type="url" name="url" placeholder="Your Website">
-	  <input type="submit"></input>
-	  <button type="submit">Submit</button>
-	</form>
-	<p class="confirmation">
-    Thank you! We'll let you know when we have news about tickets, etc.
-	</p>
-</section>
-<br>
 #The Joys of Probability
 <a href="http://imgur.com/Xlx4aoM"><img src="http://i.imgur.com/Xlx4aoM.jpg" title="iPhone 6 Combinations" /></a>
 
