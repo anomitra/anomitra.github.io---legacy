@@ -10,12 +10,8 @@ author:    "Rafeh Qazi"
 header-img: "img/iphone-passcode2.jpg"
 comments: true
 ---
-{% highlight javascript %}
-{% include alert_msg.js %}
-{% endhighlight %}
-
 #The Joys of Probability
-<a href="http://imgur.com/Xlx4aoM"><img src="http://i.imgur.com/Xlx4aoM.jpg" title="iPhone 6 Combinations" /></a>
+<img src="{{ "/img/iphone-passcode.jpg" | prepend: site.baseurl }}" alt="image">
 
 1. How many possible 4-digit passcodes can you have on your iPhone 6? (Enumerations &amp; Permumations &amp; Combinatorics)<br><br>
 2. How many centuries will it take to break a password with an entropy level of 77? (Security)<br><br>
