@@ -11,7 +11,8 @@ header-img: "img/iphone-passcode2.jpg"
 comments: true
 ---
 #The Joys of Probability
-<img src="{{ site.baseurl }}/img/iphone-passcode.jpg" alt="iPhone 6 Pass Code Probability ">
+<img src="/Users/Rafeh/Dropbox/github/websites/{{ site.baseurl }}/img/iphone-passcode.jpg" 
+alt="iPhone 6 Pass Code Probability ">
 
 1. How many possible 4-digit passcodes can you have on your iPhone 6? (Enumerations &amp; Permumations &amp; Combinatorics)<br><br>
 2. How many centuries will it take to break a password with an entropy level of 77? (Security)<br><br>
