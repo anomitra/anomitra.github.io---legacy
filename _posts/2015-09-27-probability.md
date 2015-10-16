@@ -13,7 +13,7 @@ comments: true
 {% highlight javascript %}
 {% include alert_msg.js %}
 {% endhighlight %}
-# Test with sections
+# Test with sections and input submit
 test new form?<br>
 
 <section id="got-your-email">
@@ -22,6 +22,7 @@ test new form?<br>
 	  <input type="email" name="email" placeholder="Your Email">
 	  <input type="text" name="name" placeholder="Your Name">
 	  <input type="url" name="url" placeholder="Your Website">
+	  <input type="submit"></input>
 	  <button type="submit">Submit</button>
 	</form>
 	<p class="confirmation">
