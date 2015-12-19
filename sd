@@ -1,0 +1,246 @@
+[33mcommit d3aa017f48e1546ae0ae073d88328e2b1e5e0253[m
+Merge: 112fa20 9d049c3
+Author: Anomitra Saha <anomitra1993@gmail.com>
+Date:   Sat Dec 19 17:49:30 2015 +0000
+
+    Merge branch 'master' into gh-pages
+
+[33mcommit 112fa201f019e7a0f81fb4ebe8e1f3bef2fc9f66[m
+Author: Anomitra Saha <anomitra1993@gmail.com>
+Date:   Sat Dec 19 13:15:35 2015 +0000
+
+    Bundle updated
+
+[33mcommit d818849656167c7c8b4b75205695285138f3661b[m
+Author: Anomitra Saha <anomitra1993@gmail.com>
+Date:   Sat Dec 19 13:04:04 2015 +0000
+
+    Bundle EXEC
+
+[33mcommit 85d0378d1c70008dee14101612efdff1c05cfb3f[m
+Author: Anomitra Saha <anomitra1993@gmail.com>
+Date:   Sat Dec 19 12:27:02 2015 +0000
+
+    Added YAML stuff
+
+[33mcommit f18cee52339a7c05f8c6d4eb16b216e69d147ac7[m
+Author: Anomitra Saha <anomitra1993@gmail.com>
+Date:   Sat Dec 19 12:23:21 2015 +0000
+
+    Added CNAME
+
+[33mcommit 1279f7ad7c8b891e809204160b6f08a9d9cc2fbc[m
+Author: Anomitra Saha <anomitra1993@gmail.com>
+Date:   Sat Dec 19 12:18:08 2015 +0000
+
+    Changed config
+
+[33mcommit 142f88d9bab152388e8abc9491f441546f022f7a[m
+Author: Anomitra Saha <anomitra@users.noreply.github.com>
+Date:   Sat Dec 19 17:19:26 2015 +0530
+
+    Update _config.yml
+
+[33mcommit 8a5798d1e66335c6459621039f7abf5352b3a26c[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 12:18:39 2015 -0500
+
+    failed to fix html proofing failure of 153 internally linked files, scripts, and images
+
+[33mcommit f0cfa724b423ef66dc66695e9ecff6fc6e5f83b2[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 09:01:08 2015 -0500
+
+    giving up for now on getting the forms from formkeep
+
+[33mcommit f5159d0130009aab62554a750fe65f96e312102f[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 08:59:02 2015 -0500
+
+    trying to debug the form for formkeep on my probability article
+
+[33mcommit 904830810a7b1fe1ee1487c51582327696183c37[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 08:56:08 2015 -0500
+
+    trying to debug the form for formkeep on my probability article
+
+[33mcommit f24d3ebf7c4f6d024c2f76cbcee92ea47c46de78[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 08:46:44 2015 -0500
+
+    trying to debug the form for formkeep on my probability article
+
+[33mcommit efac5a5329aa05b147228f55c2d9e775b3077256[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 08:44:15 2015 -0500
+
+    trying to debug the form for formkeep on my probability article
+
+[33mcommit 38a27239552be0a8748b819093c9050425f5fdc5[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 08:39:02 2015 -0500
+
+    trying to debug the form for formkeep on my probability article
+
+[33mcommit 60886d1952f47841e850e311d6b4a500e0cf6598[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 08:35:40 2015 -0500
+
+    trying to debug the form for formkeep on my probability article
+
+[33mcommit ef08388b041185924f05d92e48a5a14bf2098ef3[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 08:34:13 2015 -0500
+
+    trying to debug the form for formkeep on my probability article
+
+[33mcommit beac74a8eb2527f0f0ea426d7555606249584055[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 08:30:14 2015 -0500
+
+    trying to debug the form for formkeep on my probability article
+
+[33mcommit 50c0986f5c8890dd96f0abe91b602273591162e2[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 08:29:57 2015 -0500
+
+    trying to debug the form for formkeep on my probability article
+
+[33mcommit a977c9624119729a70c48588f9eb831987b886ad[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 08:27:11 2015 -0500
+
+    trying to debug the form for formkeep on my probability article
+
+[33mcommit 2adddaa4b80f794419aa311177b21659b1436be1[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 08:26:42 2015 -0500
+
+    trying to debug the form for formkeep on my probability article
+
+[33mcommit aa387da5bfd75a68a032e41f90214a2958498a50[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 08:23:33 2015 -0500
+
+    trying to debug the form for formkeep on my probability article
+
+[33mcommit 9d4855fa52022e7ae33dc5eae95461d808d122cc[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 08:22:57 2015 -0500
+
+    trying to debug the form for formkeep on my probability article
+
+[33mcommit 8f319bdb08dce4608b03ee83441c29cdffbea990[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 08:12:31 2015 -0500
+
+    trying to debug formkeep form
+
+[33mcommit 2a1a1c0a1116070715e56a5d6e7502066fdac208[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 08:11:55 2015 -0500
+
+    trying to debug formkeep form
+
+[33mcommit 9ae3ff93fadcfc206f9e3d84dca2e09767cef52f[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 08:08:57 2015 -0500
+
+    fixed url in the _config.yml
+
+[33mcommit 490fac654a10f62677a7f96f1025d8fa9bcceff1[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Fri Oct 16 08:06:42 2015 -0500
+
+    testing formkeep on the probability article along with a alert_msg.js include snippet
+
+[33mcommit d051f362515231f0613d3ad051ea50e0336648d9[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Thu Oct 15 20:02:49 2015 -0500
+
+    going back to regular test
+
+[33mcommit 95ae402a1de974e0b8d02af1ef7ae5f019cb18ad[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Thu Oct 15 06:24:50 2015 -0500
+
+    removed my URL and just left baseurl
+
+[33mcommit a1acf9eb078529ed0983fd67c128c23a8ee33c3d[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Thu Oct 15 06:15:53 2015 -0500
+
+    adding some more tests i guess
+
+[33mcommit f286dbef30042e699015559ba45c41c22a3cb2e5[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Thu Oct 15 06:02:04 2015 -0500
+
+    removed html proofer from being listed in my Gemfile twice
+
+[33mcommit f7d3fd518ff8422db1bc03c75ddc1aec496a0e6d[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Thu Oct 15 05:54:18 2015 -0500
+
+    fixed my .travis.yml file hopefully
+
+[33mcommit 490f876c526ab538b316f9402b0a6bccda751951[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Thu Oct 15 05:50:15 2015 -0500
+
+    rakefile.rb should be working now
+
+[33mcommit e1e4f3a06de0b3c654e30a30e42cf60cf6c5d0b0[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Thu Oct 15 05:26:04 2015 -0500
+
+    new rakefile.rb test with travis
+
+[33mcommit 4737ba59eaf41b44d9bedbd60740b3dd28926ad4[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Thu Oct 15 05:21:56 2015 -0500
+
+    gonna check if the new rakefile works with travis
+
+[33mcommit 09c1d2d284e79bb17ce7e6a27872c1e92e9ff52a[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Thu Oct 15 04:40:03 2015 -0500
+
+    commented out html-proofer in cibuild so travis build can stop failing
+
+[33mcommit 7be8505a5c8e4789cb39a2e5b7685140ec90f5fc[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Thu Oct 15 04:29:01 2015 -0500
+
+    changed the interpreter back to bash for travis in cibuild. Hopefully the test will work now
+
+[33mcommit 040ad7e8988c88580667dfc9782481099a3cd335[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Thu Oct 15 04:25:09 2015 -0500
+
+    the cibuild in script folder worked finally hooray. The issue was that my zsh was using ruby 1.93 as its default version. I just had to type in the command Using /Users/Rafeh/.rvm/gems/ruby-2.2.1 which set ruby 2.2.1 as my default. Now most of my problems are mitigated and the cibuild test for travis for my github pages data-sciece website works
+
+[33mcommit 23cfc6222e72cb4aba3090757c9da335ffe6858b[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Thu Oct 15 04:15:14 2015 -0500
+
+    changing the interpretor to zsh in the cibuild file. Hopefully this should fix the errors
+
+[33mcommit 4bd6b2c9cb48290cad66e06d717e69e40107695d[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Thu Oct 15 04:09:44 2015 -0500
+
+    added sudo: false to .travis.yml and also tried to fix the zsh path from /usr/bin/env zsh to /bin zsh
+
+[33mcommit bfc5ad0d14c19b65bfe77da67c2f519fe4272dcd[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Thu Oct 15 03:56:27 2015 -0500
+
+    excluded 'vendor' from _config.yml file as jekyllrb.com suggested
+
+[33mcommit ad0cbe5e04a8e530ffad74f14dd796d0ed59d88e[m
+Author: rafeh01 <rafehqazi1@gmail.com>
+Date:   Wed Oct 14 23:57:33 2015 -0500
+
+    built Gemfil
