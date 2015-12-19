@@ -1,13 +1,13 @@
 # Site settings
-title: Data Science
+title: TEXT
 header-img: img/home-bg.jpg
-email: rafehqazi1@gmail.com
-description: "Road from a Rookie Starbuckser to Data Scientist."
-baseurl: "/data-science"
+email: abc@gmail.com
+description: "ABC"
+baseurl: ""
 url: ""
-twitter_username: RafehQ
-github_username:  rafeh01
-facebook_username:  ChessTastic
+twitter_username: ABC
+github_username:  ABC
+facebook_username:  ABC
 
 # Build settings
 markdown: kramdown
