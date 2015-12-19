@@ -1,13 +1,13 @@
 # Site settings
-title: TEXT
+title: Anomitra's Blog
 header-img: img/home-bg.jpg
-email: abc@gmail.com
-description: "ABC"
+email: anomitra1993@gmail.com
+description: "Just another weblog"
 baseurl: ""
 url: ""
-twitter_username: ABC
-github_username:  ABC
-facebook_username:  ABC
+twitter_username: RickterScale_
+github_username:  anomitra
+facebook_username:  anomitra.saha
 
 # Build settings
 markdown: kramdown
