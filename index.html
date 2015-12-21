@@ -2,16 +2,27 @@
 layout: page
 description: "I like to write prose, and code. You'll find both on here."
 ---
-
+<style type="text/css">
+    latest {
+  font-family: 'IM Fell French Canon', serif;
+  font-size: 64px;
+  text-align: center;
+  padding: 130px;
+  line-height: 200px;
+  padding-bottom: 50px;
+}
+</style>
+<latest align="middle"> ---- Latest Posts ---- </latest>
 {% for post in paginator.posts %}
 <div class="post-preview">
+    <img src="{{post.header-img}}"></img>
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
         </h2>
         {% if post.subtitle %}
-        <h3 class="post-subtitle">
+        <h4 class="post-subtitle">
             {{ post.subtitle }}
-        </h3>
+        </h4>
         {% endif %}
     </a>
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>

@@ -5,7 +5,7 @@ email: anomitra1993@gmail.com
 description: "Just another weblog"
 baseurl: ""
 url: "anomitra.me"
-twitter_username: RickterScale_
+twitter_username: #
 github_username:  anomitra
 facebook_username:  anomitra.saha
 
@@ -13,5 +13,5 @@ facebook_username:  anomitra.saha
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
-paginate: 5
+paginate: 6
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","vendor"]
