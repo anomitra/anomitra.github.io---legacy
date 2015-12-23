@@ -31,7 +31,7 @@ postimg{
         </h4>
         {% endif %}
     </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }} |  <a class="post-meta" href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a>
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }} |  <a class="post-meta" href="http://anomitra.me{{ post.url | prepend: site.baseurl }}#disqus_thread"></a>
 </p>
 </div>
 <hr>
