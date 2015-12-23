@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "Dinosaurs are extinct today"
-subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
-date:       2014-06-10 12:00:00
+title:      "Dinosaurs are not extinct today"
+subtitle:   "because they built their space programs very efficiently and accurately to preserve it for posterity"
+date:       2014-08-12 12:00:00
 author:     "Anomitra"
 comments: true
-header-img: "img/post-bg-01.jpg"
+header-img: "img/post-bg-03.jpg"
 ---
 
 [link to Google!](http://google.com)

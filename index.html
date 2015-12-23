@@ -11,11 +11,17 @@ description: "I like to write prose, and code. You'll find both on here."
   line-height: 200px;
   padding-bottom: 50px;
 }
+postimg{
+  display: block;
+  max-width: 100%;
+  max-height: 250px;
+}
 </style>
+
 <latest align="middle"> ---- Latest Posts ---- </latest>
 {% for post in paginator.posts %}
 <div class="post-preview">
-    <img src="{{post.header-img}}"></img>
+    <img src="{{post.header-img}}" class="postimg height: 250px;"></img>
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
         </h2>
@@ -25,7 +31,8 @@ description: "I like to write prose, and code. You'll find both on here."
         </h4>
         {% endif %}
     </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }} |  <a class="post-meta" href="{{ post.url | prepend: site.baseurl }}#disqus_thread"></a>
+</p>
 </div>
 <hr>
 {% endfor %}
